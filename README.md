@@ -1,6 +1,6 @@
 # **Cobblemon Battle Logger**
 
-The **Cobblemon Battle Logger** is a mod designed to track and log:
+Developed for the Dystoria Cobblemon server, this mod is designed to track and log:
 - **PvP (Player vs. Player) battles**,
 - **PvN (Player vs. NPC) battles**,
 - **PvW (Player vs. Wild Pokémon) battles**.

@@ -2,13 +2,15 @@
 	"schemaVersion": 1,
 	"id": "dystoria-logger",
 	"version": "${version}",
-	"name": "Dystoria Logger",
+	"name": "Cobblemon Battle Logger",
 	"description": "Logs your battles.",
 	"authors": [
 		"Provismet"
 	],
 	"contact": {
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"homepage": "https://github.com/Provismet/Dystoria-Battle-Logger",
+		"sources": "https://github.com/Provismet/Dystoria-Battle-Logger",
+		"issues": "https://github.com/Provismet/Dystoria-Battle-Logger/issues"
 	},
 	"license": "MIT",
 	"icon": "assets/dystoria-logger/icon.png",
