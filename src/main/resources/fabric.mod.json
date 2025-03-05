@@ -1,0 +1,40 @@
+{
+	"schemaVersion": 1,
+	"id": "dystoria-logger",
+	"version": "${version}",
+	"name": "Dystoria Logger",
+	"description": "Logs your battles.",
+	"authors": [
+		"Provismet"
+	],
+	"contact": {
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/dystoria-logger/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"com.provismet.dystoria.logs.DystoriaBattleLogger"
+		],
+		"client": [
+			"com.provismet.dystoria.logs.DystoriaBattleLoggerClient"
+		],
+		"server": [
+			"com.provismet.dystoria.logs.DystoriaBattleLoggerServer"
+		],
+		"modmenu": [
+			"com.provismet.dystoria.logs.options.ModMenuHook"
+		]
+	},
+	"mixins": [
+		"dystoria.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.15.0",
+		"minecraft": "~1.21.1",
+		"java": ">=21",
+		"fabric-api": "*",
+		"cobblemon": "*"
+	}
+}

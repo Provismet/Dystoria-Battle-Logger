@@ -1,0 +1,15 @@
+{
+    "title.dystoria.logger": "Dystoria Battle Logger",
+    "category.dystoria.logger.general": "General",
+
+    "command.dystoria.logger.check.pvp": "Player vs Player logging: %1$s",
+    "command.dystoria.logger.check.pvn": "Player vs NPC logging: %1$s",
+    "command.dystoria.logger.check.pvw": "Player vs Wild Pokemon logging: %1$s",
+
+    "command.dystoria.logger.set.pvp": "Set Player vs Player logging to %1$s",
+    "command.dystoria.logger.set.pvn": "Set Player vs NPC logging to %1$s",
+    "command.dystoria.logger.set.pvw": "Set Player vs Wild Pokemon logging to %1$s",
+
+    "option.dystoria.logger.log": "Receive Battle Logs",
+    "tooltip.dystoria.logger.log": "Battle logging must be enabled on the server to receive logs."
+}
